@@ -1,9 +1,6 @@
 # Power BI: Data Professional Survey Dashboard
 
 A comprehensive and interactive Power BI dashboard designed to analyze and visualize key trends from a survey of data professionals. This project explores demographics, job satisfaction, popular technologies, and career path insights.
-
-![Dashboard Preview](https://Screenshot 2025-06-15 133034.png)
-
 ---
 
 ## 📊 Project Overview
